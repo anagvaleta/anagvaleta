@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou cursando Engenharia de Software no INATEL
 - 🌱 Estudando C++
-- 📚 3º período 
+- 📚 4º período 
 
 <div align="center">
   <a href="https://github.com/anagvaleta">
