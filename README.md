@@ -1,6 +1,6 @@
 ### Oieee, eu sou a Ana Luísa!
 
-- 🔭 Atualmente estou cursando Engenharia de Software no INATEL
+- 🔭 Cursando Engenharia de Software no INATEL
 - 🌱 Estudando C++
 - 📚 4º período 
 
