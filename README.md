@@ -1,18 +1,21 @@
 ### Oieee, eu sou a Ana Luísa!
 
-- 🔭 Cursando Engenharia de Software no INATEL
-- 🌱 Estudando C++
-- 📚 4º período 
+- 🔭 Cursando Engenharia de Software no INATEL </br>
+- 🌱 Focando atualmente em JavaScript, React.JS e Java </br>
+- 📚 4º período de Engenharia </br>
+- 💻 Portfólio: ~ </br>
 
 <div align="center">
   <a href="https://github.com/anagvaleta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anagvaleta&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagvaleta&layout=compact&langs_count=7&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anagvaleta&theme=synthwave&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagvaleta&theme=synthwave&show_icons=true&hide_border=true&layout=compact"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ana-Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg">
+  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg">
+  <img align="center" alt="Ana-css" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg">
+  <img align="center" alt="Ana-js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg">
+  <img align="center" alt="Ana-reactjs" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg">
   <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;" src="https://i.makeagif.com/media/2-24-2022/8QSQDb.gif?width=676&height=676">
 </div>
 
