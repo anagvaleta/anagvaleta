@@ -2,7 +2,7 @@
 
 - 🔭 Cursando Engenharia de Software no INATEL </br>
 - 🌱 Focando atualmente em JavaScript, React.JS e Java </br>
-- 📚 5º período de Engenharia </br>
+- 📚 6º período de Engenharia </br>
 - 💻 Portfólio: https://anagvaleta.github.io/Site/ </br>
 
 <div align="center">
