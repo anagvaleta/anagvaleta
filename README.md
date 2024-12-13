@@ -1,7 +1,7 @@
 ### Oieee, eu sou a Ana Luísa!
 
 - 🔭 Cursando Engenharia de Software no INATEL </br>
-- 🌱 Focando atualmente em JavaScript, React.JS e Java </br>
+- 🌱 Focando atualmente em JavaScript e Angular </br>
 - 📚 6º período de Engenharia </br>
 - 💻 Portfólio: https://anagvaleta.github.io/Site/ </br>
 
