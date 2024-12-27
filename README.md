@@ -16,6 +16,7 @@
   <img align="center" alt="Ana-css" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg">
   <img align="center" alt="Ana-js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg">
   <img align="center" alt="Ana-angular" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Angular-Light.svg">
+  <img align="center" alt="Ana-cpp" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CPP.svg">
   <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;" src="https://i.makeagif.com/media/2-24-2022/8QSQDb.gif?width=676&height=676">
 </div>
 
