@@ -3,7 +3,6 @@
 - 🔭 Cursando Engenharia de Software no INATEL </br>
 - 🌱 Focando atualmente em JavaScript e Angular </br>
 - 📚 6º período de Engenharia </br>
-- 💻 Portfólio: https://anagvaleta.github.io/Site/ </br>
 
 <div align="center">
   <a href="https://github.com/anagvaleta">
