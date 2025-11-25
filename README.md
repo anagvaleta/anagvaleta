@@ -1,7 +1,7 @@
 ### Oieee, eu sou a Ana Luísa!
 
 - 🔭 Cursando Engenharia de Software no INATEL </br>
-- 🌱 Focando atualmente em JavaScript e Angular </br>
+- 🌱 Trainee de Desenvolvimento de Software </br>
 - 📚 6º período de Engenharia </br>
 
 <div align="center">
